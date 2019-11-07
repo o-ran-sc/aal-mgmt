@@ -35,11 +35,6 @@ committers:
       company: 'Wind River'
       id: 'Xiaohua626'
       timezone: 'Asia/Shanghai'
-    - name: 'Jackie Huang'
-      email: 'jackie.huang@windriver.com'
-      company: 'Wind River'
-      id: 'jackiehjm'
-      timezone: 'Asia/Shanghai'
     - name: 'Jianqiang Lu'
       email: 'lujq1@lenovo.com'
       company: 'Lenovo'
@@ -50,6 +45,5 @@ tsc:
     changes:
         - type: 'Addition'
           name:
-              - 'Jackie Huang'
               - 'Jianqiang Lu'
           link: "https://wiki.o-ran-sc.org/display/TOC/2019+09+18"
