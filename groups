@@ -1,4 +1,3 @@
 # UUID                                                                   	Group Name
 #
 cefb1c6bb366c596c8c4bf4f15c3834ea3ea9a4c                                 	saml/oran-gerrit-aal-mgmt-committers
-ldap:cn=oran-gerrit-aal-mgmt-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-aal-mgmt-committers
